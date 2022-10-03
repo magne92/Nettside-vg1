@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 2000px;
+}
+
+.meny {
+    width: 100%;
+    background-color: #EF767A;
+    align-content: center;
+}
+
+.innhold {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 100%;
+}
+
+.venstre {
+    width: 50%;
+    height: 500px;
+    background-color: #456990;
+}
+
+.hoyre {
+    width: 50%;
+    height: 500px;
+    background-color: #49BEAA;
+}
